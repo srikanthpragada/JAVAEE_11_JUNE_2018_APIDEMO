@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/jaxws/Hello.java=UTF-8
+encoding//src/jaxws/HelloPortBindingStub.java=UTF-8
+encoding//src/jaxws/HelloService.java=UTF-8
+encoding//src/jaxws/HelloServiceLocator.java=UTF-8

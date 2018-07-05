@@ -12,5 +12,7 @@
 	<classpathentry kind="lib" path="D:/eclipse/plugins/javax.xml.soap_1.2.0.v201005080501/lib/saaj.jar"/>
 	<classpathentry kind="lib" path="D:/eclipse/plugins/javax.wsdl_1.6.2.v201012040545.jar"/>
 	<classpathentry kind="lib" path="D:/eclipse/plugins/org.apache.commons.logging_1.1.1.v201101211721.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/plugins/javax.wsdl_1.6.2.v201012040545.jar"/>
+	<classpathentry kind="lib" path="E:/eclipse/plugins/org.apache.commons.logging_1.1.1.v201101211721.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
